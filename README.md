@@ -43,7 +43,6 @@ While working on social or dating apps, many users and developers need professio
 You might find these useful:
 
 
-[free paystub generator](https://stubcreator.com/pay-stub-generator/) – fast PDF creation, no signup required <br>
   - [Image Tools](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
     - [Design Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
     - [Image Generator](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/core)
@@ -96,7 +95,7 @@ AI tools that help with dating profiles, openers, flirting, conversation, matchm
 - **[Hinge AI (built-in)](https://hinge.co/)** — Official Hinge AI features: smart replies, profile feedback, conversation starters. [Included in app]
 - **[Tinder Select / Platinum AI features](https://tinder.com/)** — AI-powered profile optimization and message suggestions (limited rollout). [Premium]
 - **[Once](https://getonce.com/)** — AI-curated one match per day with deep personality + value compatibility analysis. [Free + Paid]
-- [paystub Template](https://stubcreator.com/download-pay-stub-templates/) – accurate, compliant, modern look <br>
+- [free paystub Template](https://stubcreator.com/download-pay-stub-templates/) – accurate, compliant, modern look <br>
 
 
 
