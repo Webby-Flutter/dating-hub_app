@@ -160,7 +160,7 @@ Open for:
 • Full app launch support <br>
 
 📱 **Phone/WhatsApp**: [+91 9737817888](https://wa.me/919737817888)  <br>
-📧 **Email**: [e7@webbygenius.in](mailto:support@stubcreator.com)  <br>
+📧 **Email**: [support@stubcreator.com](mailto:support@stubcreator.com)  <br>
 🌐 **Website**: [https://stubcreator.com/](https://stubcreator.com/)  <br>
 🆓 **Start Now**: [Generate Free Paystub](https://stubcreator.com/pay-stub-generator/) <br>
 
